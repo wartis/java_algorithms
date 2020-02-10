@@ -2,7 +2,7 @@ package com.wartis.introduction;
 
 import java.util.Scanner;
 
-public class Hyperjump {
+public class Hyperjump_1296 {
 
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in, "ISO-8859-1");
